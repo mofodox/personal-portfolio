@@ -10,11 +10,17 @@
   },
   "dependencies": {
     "next": "12.2.5",
+    "particles-bg": "^2.5.5",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-device-detect": "^2.2.2",
+    "react-dom": "18.2.0",
+    "react-grid-system": "^8.1.6",
+    "react-mouse-particles": "^1.1.5",
+    "react-moving-text": "^0.0.7"
   },
   "devDependencies": {
     "eslint": "8.22.0",
-    "eslint-config-next": "12.2.5"
+    "eslint-config-next": "12.2.5",
+    "sass": "^1.54.4"
   }
 }
